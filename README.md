@@ -2,6 +2,8 @@
 # Project Based Internship - Kimia Farma Big Data
 # About Program
 Program Project Based Internship kolaborasi Rakamin Academy dan Kimia Farma Big Data Analytics merupakan program pengembangan diri dan akselerasi karier yang diperuntukkan bagi kalian yang tertarik untuk mendalami posisi Big Data Analytics di perusahaan Kimia Farma. Program ini memberikan akses pembelajaran dasar berupa Article Review (materi bacaan) dan Company Coaching Video (video learning) untuk memperkenalkan kalian dengan kompetensi dan keahlian yang harus dimiliki oleh Big Data Analytics di perusahaan. Selain materi, akan ada pengujian atas hasil pembelajaran kalian berupa soal-soal Task di setiap minggunya dan diakhiri dengan pembuatan tugas akhir yang akan menjadi portofolio kalian pada program ini.
+website Rakamin: https://www.rakamin.com/academy
+
 # About Company
 
 Kimia Farma adalah perusahaan farmasi milik negara (BUMN) yang bergerak di bidang produksi, distribusi, dan ritel produk farmasi di Indonesia. Kimia Farma merupakan perusahaan industri farmasi pertama di Indonesia yang didirikan oleh Pemerintah Hindia Belanda tahun 1817. Nama perusahaan ini pada awalnya adalah NV Chemicalien Handle Rathkamp & Co. 
