@@ -55,3 +55,4 @@ Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023. Pada
 - Dan analisis lainnya yang dapat anda eksplorasi.
   
 ## Result
+link: https://bit.ly/GLookerStudio
