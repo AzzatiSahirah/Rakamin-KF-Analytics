@@ -40,7 +40,8 @@ mandatory pada tabel tersebut:
 - nett_sales : harga setelah diskon,
 - nett_profit : keuntungan yang diperoleh Kimia Farma,
 - rating_transaksi : penilaian konsumen terhadap transaksi yang dilakukan.
-  
+
+  [Lihat Query BigQuery](https://github.com/AzzatiSahirah/Rakamin-KF-Analytics/blob/2f3e1b558a8b642e2e61caa847e99f34326c5b48/bigquery_analysis.sql)
 ## Challenge
 Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023. Pada proyek ini, anda harus membuat sebuah dashboard analisis kinerja Kimia Farma tahun 2020-2023 di Google Looker Studio. Dashboard ini anda buat berdasarkan tabel analisa yang telah anda buat sebelumnya pada BigQuery, sehingga anda perlu menghubungkan table tersebut ke Google Looker Studio. Anda dapat mendesain dashboard sesuai dengan kreativitas anda masing-masing, namun dashboardnya harus mencangkup:
 - Judul Dashboard
