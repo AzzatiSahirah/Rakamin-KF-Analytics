@@ -56,4 +56,5 @@ Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023. Pada
   
 ## Result
 link: https://bit.ly/GLookerStudio
-![Deskripsi Gambar](https://raw.githubusercontent.com/username/repo-name/main/dashboard)
+
+![image alt](https://github.com/AzzatiSahirah/Rakamin-KF-Analytics/blob/2070223451c8a465257b61db06ea7bc3fb6586b6/DashboardPerformance)
