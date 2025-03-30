@@ -16,7 +16,7 @@ Sebagai seorang Big Data Analytics Intern di Kimia Farma, Saya memiliki tanggung
 - kf_kantor_cabang.csv
 - kf_product.csv 
 Pada proyek ini, akan dibuat tabel analisa berdasarkan hasil agregasi dari keempat tabel yang telah disediakan menggunakan Google BigQuery serta membuat dashboard analisis kinerja Kimia Farma tahun 2020-2023 menggunakan Google Looker Studio.
-## Analisa
+## Analysis
 Pada proyek ini, anda juga diminta untuk membuat tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimport sebelumnya. Berikut ini adalah kolom-kolom yang
 mandatory pada tabel tersebut:
 - transaction_id : kode id transaksi,
